@@ -1,0 +1,6 @@
+Credentials cache: API:5DD9DD2F-44A9-48A9-AC96-50CB1241F2AF
+        Principal: bsamzun@42.FR
+
+  Issued                Expires               Principal
+Mar  9 15:02:02 2020  Mar 16 15:02:02 2020  krbtgt/42.FR@42.FR
+Mar  9 15:02:04 2020  Mar 16 15:02:02 2020  HTTP/student-storage-2.42.fr@42.FR
